@@ -1,0 +1,6 @@
+{
+    "name": "God's kitchen",
+    "dependencies": {
+        "normalize.css": "*"
+    }
+}
